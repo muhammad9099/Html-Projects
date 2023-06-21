@@ -1,0 +1,25 @@
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Lato", sans-serif;
+}
+.w3-bar,h1,button {
+    font-family: "Montserrat", sans-serif;
+}
+.fa-anchor,.fa-coffee {
+    font-size:200px;
+}
+.mmm{
+    padding: 34px;
+    opacity: 100px;
+    margin: 10px;
+    text-align: center;
+    background-color: black;
+}
+.fa-coffee{
+    text-align: center;
+    font-size: 200px;  
+}
+font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+}
